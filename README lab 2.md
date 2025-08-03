@@ -145,4 +145,3 @@ Feel free to clone this repository:
 git clone https://github.com/Kavee022/packet-tracer.git
 ```
 
-> Replace the link if your repository name is different.
